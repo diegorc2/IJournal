@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IJournal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_entry">Add Journal Entry</string>
+    <string name="read_entry">Read Journal Entry</string>
+    <string name="ijournal">IJournal</string>
+    <string name="entry_goes_here">Entry goes here.</string>
+    <string name="add_entry_title">Enter New Journal Entry</string>
+    <string name="error">ERROR!</string>
+</resources>
